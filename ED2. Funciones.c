@@ -6,7 +6,6 @@
 
 #include <stdio.h>
 #include <string.h> // Para strcmp
-//#include <ctype.h>  // No utilizado actualmente
 
 float serie(float x, float n);
 float pagoEstacionamiento(int tiempo, float monto);
